@@ -4963,6 +4963,17 @@
       (net 19 "GND") (pintype "passive") (tstamp 1984515d-1f64-4df1-b4a7-ba6482140eb2))
   )
 
+  (gr_poly
+    (pts
+      (xy 82.55 86.36)
+      (xy 82.55 140.97)
+      (xy 164.465 140.97)
+      (xy 170.18 135.255)
+      (xy 170.18 86.36)
+    )
+
+    (stroke (width 0.2) (type solid)) (fill none) (layer "F.Cu") (tstamp 702268d3-ee8f-4624-ae71-367bdc3628d1))
+
   (segment (start 97.015 121.285) (end 95.885 121.285) (width 0.25) (layer "F.Cu") (net 15) (tstamp 21ad94be-5e8f-47fa-9c8f-3c360e7913b4))
   (segment (start 94.615 120.015) (end 95.885 121.285) (width 0.25) (layer "F.Cu") (net 15) (tstamp 55e1ace2-9491-48e3-9c44-35cff7b33d6b))
   (segment (start 92.205 114.935) (end 92.205 113.665) (width 0.25) (layer "F.Cu") (net 15) (tstamp 9150eaf2-bbd8-4f03-a6b4-5cf3ae78f18f))
