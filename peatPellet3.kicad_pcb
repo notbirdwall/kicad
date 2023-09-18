@@ -5029,8 +5029,8 @@
     )
 
     (stroke (width 0.2) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 702268d3-ee8f-4624-ae71-367bdc3628d1))
-  (gr_text "Free your ass and your mind will follow\n                    Play on, children" (at 87.63 125.095) (layer "F.SilkS") (tstamp 01852a42-61c7-4e38-a00d-b8b2c6f0afed)
-    (effects (font (size 0.4 1) (thickness 0.1) bold) (justify left bottom))
+  (gr_text "Free your ass and your mind will follow\n                    Play on, children" (at 87.63 125.73) (layer "F.SilkS") (tstamp 01852a42-61c7-4e38-a00d-b8b2c6f0afed)
+    (effects (font (size 0.45 1) (thickness 0.1) bold) (justify left bottom))
   )
   (gr_text "   Be careful of the thought-seeds \nyou plant in the garden of your mind\n\n\n\n     For seeds grow after their kind" (at 139.7 100.8) (layer "F.SilkS") (tstamp 4ce4d37f-aa3e-4cc0-81d1-d84da979ed32)
     (effects (font (size 0.8 1) (thickness 0.15)) (justify left bottom))
